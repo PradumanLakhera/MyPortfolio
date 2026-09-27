@@ -1,67 +1,36 @@
 # Praduman Lakhera — Portfolio
 
-Personal developer portfolio built with React, Vite, and Tailwind CSS.
+Personal portfolio website built with React.
 
-## About
-
-This portfolio showcases my projects, technical skills, and development experience.
-
-## Tech Stack
+## Built With
 
 * React
 * JavaScript
 * Vite
 * Tailwind CSS
-* Node.js
-* Express
-* MongoDB
-* MySQL
-* C#
-* C++
-* Python
+* Framer Motion
 
 ## Projects
 
 ### Meetafriend
 
-A meetup matching platform built with React, Node.js, Express, MongoDB, and JWT authentication.
+A website for finding and joining meetups.
 
 ### Apple Clone
 
-An Apple-inspired website built with React, Vite, Tailwind CSS, and React Three Fiber.
+A clone of the Apple website built with React.
 
 ### Momo Discord Bot
 
-A Discord bot built with C#, .NET, Entity Framework Core, and NetCord.
+A Discord bot built with C#.
 
-## Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-```
-
-Install dependencies:
+## Run Locally
 
 ```bash
 npm install
-```
-
-Start the development server:
-
-```bash
 npm run dev
 ```
 
-## Contact
+## Author
 
-GitHub: Add your GitHub URL
-
-LinkedIn: Add your LinkedIn URL
-
-Email: Add your email
-
-## License
-
-This project is a personal portfolio.
+Praduman Lakhera
