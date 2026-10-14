@@ -1,7 +1,7 @@
 # Praduman Lakhera — Portfolio
 
 Personal portfolio website built with React.
-
+link: https://pradumanlakhera.github.io/MyPortfolio/
 ## Built With
 
 * React
